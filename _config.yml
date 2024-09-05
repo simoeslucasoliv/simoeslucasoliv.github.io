@@ -1,21 +1,20 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Lucas Simões de Oliveira
+description: Assessor de Investimentos - XP, Economista em formação - UFV
+site_title: '@lsso - Lucas Simoes de oliveira'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: lsso
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: simoeslucasoliv@outlook.com
+keybase_username: lsso
+instagram_username: simoeslucasoliv@outlook.com
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: 
 
 # Google Analytics ID
 google_analytics: 
